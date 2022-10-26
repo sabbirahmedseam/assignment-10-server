@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "total_view": 100,
+    "title": "javascript",
+    "inventor": "Danis Richi",
+    "year": "1963",
+    "img": "https://learnbatta.com/assets/images/javascript/javascript-logo.png",
+    "details": "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more about JavaScript. "
+  },
+  {
+    "id": "2",
+    "total_view": 100,
+    "title": "java",
+    "inventor": "Dichi",
+    "year": "1973",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUn4ydeHMJWsEc_U9VXryDtZeXPI_66YpDfw&usqp=CAU",
+    "details": "Associated Press  Six months after Russia's invasion of Ukraine, President Joe Biden announced Wednesday that he is sending $2.98 billion in new military aid to Ukraine that will provide longer-term weapons and training to enable forces there to fight for years to come. "
+  },
+  {
+    "id": "3",
+    "total_view": 100,
+    "title": "python",
+    "inventor": "richi",
+    "year": "1963",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRovqvb5bDhAVKAKdkA5b_n6Z8f6IlGa2q_PA&usqp=CAU",
+    "details": "Associated Press  Six months after Russia's invasion of Ukraine, President Joe Biden announced Wednesday that he is sending $2.98 billion in new military aid to Ukraine that will provide longer-term weapons and training to enable forces there to fight for years to come. "
+  },
+  {
+    "id": "4",
+    "total_view": 100,
+    "title": "c++",
+    "inventor": "richi",
+    "year": "1963",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGAFIE5jB8ZCZrhf8Vhh7aUJEuWQifV6W6Ig&usqp=CAU",
+    "details": "Associated Press  Six months after Russia's invasion of Ukraine, President Joe Biden announced Wednesday that he is sending $2.98 billion in new military aid to Ukraine that will provide longer-term weapons and training to enable forces there to fight for years to come. "
+  },
+  {
+    "id": "5",
+    "total_view": 100,
+    "title": "c",
+    "inventor": "richi",
+    "year": "1963",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw12wmIZY2cxkTmdjYTai9N7zCfq3obITcNA&usqp=CAU",
+    "details": "Associated Press  Six months after Russia's invasion of Ukraine, President Joe Biden announced Wednesday that he is sending $2.98 billion in new military aid to Ukraine that will provide longer-term weapons and training to enable forces there to fight for years to come. "
+  },
+  {
+    "id": "6",
+    "total_view": 100,
+    "title": "rust",
+    "inventor": "richi",
+    "year": "1963",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfDGWUcogJmiGRCip7Gmj45QCpBZmyCnQBJw&usqp=CAU",
+    "details": "Associated Press  Six months after Russia's invasion of Ukraine, President Joe Biden announced Wednesday that he is sending $2.98 billion in new military aid to Ukraine that will provide longer-term weapons and training to enable forces there to fight for years to come. "
+  }
+]
