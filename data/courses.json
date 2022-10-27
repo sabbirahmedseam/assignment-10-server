@@ -3,54 +3,63 @@
     "id": "1",
     "total_view": 100,
     "title": "javascript",
-    "inventor": "Danis Richi",
-    "year": "1963",
+    "framework": "react.js",
+    "inventor": " Brendan Eich",
+    "year": "1995",
     "img": "https://learnbatta.com/assets/images/javascript/javascript-logo.png",
     "details": "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more about JavaScript. "
   },
   {
     "id": "2",
-    "total_view": 100,
+    "total_view": 150,
     "title": "java",
-    "inventor": "Dichi",
-    "year": "1973",
+    "framework": "quarkus",
+    "inventor": "James Goshling",
+    "year": "1995",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUn4ydeHMJWsEc_U9VXryDtZeXPI_66YpDfw&usqp=CAU",
-    "details": "Associated Press  Six months after Russia's invasion of Ukraine, President Joe Biden announced Wednesday that he is sending $2.98 billion in new military aid to Ukraine that will provide longer-term weapons and training to enable forces there to fight for years to come. "
+    "details": "Java was originally developed by James Gosling at Sun Microsystems. It was released in May 1995 as a core component of Sun Microsystems' Java platform. The original and reference implementation Java compilers, virtual machines, and class libraries were originally released by Sun under proprietary licenses. As of May 2007, in compliance with the specifications of the Java Community Process, Sun had relicensed most of its Java technologies under the GPL-2.0-only license. Oracle offers its own HotSpot Java Virtual Machine, however the official reference implementation is the OpenJDK JVM which is free open-source software and used by most developers and is the default JVM for almost all Linux distributions."
   },
   {
     "id": "3",
-    "total_view": 100,
+    "total_view": 180,
     "title": "python",
-    "inventor": "richi",
-    "year": "1963",
+    "framework": "django",
+
+    "inventor": "Guido Van Russon",
+    "year": "1991",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRovqvb5bDhAVKAKdkA5b_n6Z8f6IlGa2q_PA&usqp=CAU",
-    "details": "Associated Press  Six months after Russia's invasion of Ukraine, President Joe Biden announced Wednesday that he is sending $2.98 billion in new military aid to Ukraine that will provide longer-term weapons and training to enable forces there to fight for years to come. "
+    "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming. "
   },
   {
     "id": "4",
-    "total_view": 100,
+    "total_view": 200,
     "title": "c++",
-    "inventor": "richi",
-    "year": "1963",
+    "framework": "objectice c",
+
+    "inventor": "Bjarne Strostup",
+    "year": "1985",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGAFIE5jB8ZCZrhf8Vhh7aUJEuWQifV6W6Ig&usqp=CAU",
-    "details": "Associated Press  Six months after Russia's invasion of Ukraine, President Joe Biden announced Wednesday that he is sending $2.98 billion in new military aid to Ukraine that will provide longer-term weapons and training to enable forces there to fight for years to come. "
+    "details": "C++ (pronounced ) is a high-level general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or . The language has expanded significantly over time, and modern C++ now has object-oriented, generic, and functional features in addition to facilities for low-level memory manipulation. It is almost always implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Embarcadero, Oracle, and IBM, so it is available on many platforms."
   },
   {
     "id": "5",
-    "total_view": 100,
+    "total_view": 230,
     "title": "c",
-    "inventor": "richi",
-    "year": "1963",
+    "framework": "libraries c",
+
+    "inventor": "Danis Richi",
+    "year": "1972",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw12wmIZY2cxkTmdjYTai9N7zCfq3obITcNA&usqp=CAU",
-    "details": "Associated Press  Six months after Russia's invasion of Ukraine, President Joe Biden announced Wednesday that he is sending $2.98 billion in new military aid to Ukraine that will provide longer-term weapons and training to enable forces there to fight for years to come. "
+    "details": "C (pronounced like the letter c) is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs. It has found lasting use in operating systems, device drivers, protocol stacks, though decreasingly[6] for application software. C is commonly used on computer architectures that range from the largest supercomputers to the smallest microcontrollers and embedded systems"
   },
   {
     "id": "6",
-    "total_view": 100,
+    "total_view": 173,
     "title": "rust",
-    "inventor": "richi",
-    "year": "1963",
+    "framework":"rocket",
+    "inventor": "Graydon Hoare ",
+    "year": "2010",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfDGWUcogJmiGRCip7Gmj45QCpBZmyCnQBJw&usqp=CAU",
-    "details": "Associated Press  Six months after Russia's invasion of Ukraine, President Joe Biden announced Wednesday that he is sending $2.98 billion in new military aid to Ukraine that will provide longer-term weapons and training to enable forces there to fight for years to come. "
+    "details": "Rust is a multi-paradigm, general-purpose programming language. Rust emphasizes performance, type safety, and concurrency. Rust enforces memory safety—that is, that all references point to valid memory—without requiring the use of a garbage collector or reference counting present in other memory-safe languages"
   }
 ]
